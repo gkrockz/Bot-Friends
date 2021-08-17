@@ -1,0 +1,19 @@
+h1
+{
+  font-family: 'SEGA LOGO FONT';
+  font-weight: 200;
+  color: #000;
+}
+
+ @font-face 
+ {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+ }
+
+ body
+ {
+  font-family:'Baloo Chettan 2', cursive;
+ }
