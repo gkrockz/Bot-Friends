@@ -1,3 +1,5 @@
+## Technology Used: ![React](https://img.shields.io/badge/React.js-lightblue?style=for-the-badge&logo=React.js&logoColor=white)
+
 ## Development Instructions
 <details>
 
